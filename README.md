@@ -23,3 +23,7 @@ Here are some ideas to get you started:
     Proyecto Ingeneria Software 2 - CenfoTec
 - 📫 How to reach me: gabrielmarchal206@gmail.com
     
+
+
+
+[![Spotify](https://gabriel-marchal.vercel.app/api/spotify)](https://open.spotify.com/user/pajn42g13k7euvzbrcc4mmfzz)
