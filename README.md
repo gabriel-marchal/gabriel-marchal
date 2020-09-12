@@ -12,6 +12,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning 
 
-    ![c sharp](https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png "C Sharp")
+    [<img alt="c sharp" width="22px" height="22px" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png">]
+    [<img alt="algular" width="22px" height="22px" src= "https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg">]
 - 📫 How to reach me: gabrielmarchal206@gmail.com
     
