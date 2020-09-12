@@ -4,7 +4,7 @@
 **gabriel-marchal/gabriel-marchal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+-->
 
 
 
@@ -14,4 +14,3 @@ Here are some ideas to get you started:
     (https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png)
 - 📫 How to reach me: gabrielmarchal206@gmail.com
     
--->
