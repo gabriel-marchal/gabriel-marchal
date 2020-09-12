@@ -26,4 +26,5 @@ Here are some ideas to get you started:
 
 
 
+# *Playing on my Spotify* 🎧
 [![Spotify](https://novatorem-git-master.gabriel-marchal.vercel.app/api/spotify)](https://open.spotify.com/user/pajn42g13k7euvzbrcc4mmfzz)
