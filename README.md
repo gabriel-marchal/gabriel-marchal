@@ -26,4 +26,4 @@ Here are some ideas to get you started:
 
 
 
-[![Spotify](https://gabriel-marchal.vercel.app/api/spotify)](https://open.spotify.com/user/pajn42g13k7euvzbrcc4mmfzz)
+[![Spotify](https://novatorem-omega-virid.vercel.app/api/spotify)](https://open.spotify.com/user/pajn42g13k7euvzbrcc4mmfzz)
