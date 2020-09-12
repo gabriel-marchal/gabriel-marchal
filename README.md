@@ -16,8 +16,6 @@ Here are some ideas to get you started:
     <img alt="c sharp" width="22px" height="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
     <img alt="c sharp" width="22px" height="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
 
-    <img alt="c sharp" width="22px" height="22px" src="https://www.juicymedia.co.uk/application/files/4615/1838/4923/html_css_js.png">
-    https://www.juicymedia.co.uk/application/files/4615/1838/4923/html_css_js.png
 
 - 🌱 I’m currently learning:
     <img alt="c sharp" width="22px" height="22px" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png">
