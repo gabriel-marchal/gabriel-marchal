@@ -24,7 +24,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: gabrielmarchal206@gmail.com
     
 <br>
-<br>
 
 #### *Playing on my Spotify* 🎧
 [![Spotify](https://novatorem-git-master.gabriel-marchal.vercel.app/api/spotify)](https://open.spotify.com/user/pajn42g13k7euvzbrcc4mmfzz)
