@@ -19,6 +19,10 @@
 <img alt="IntelliJ" width="40px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/IntelliJ_IDEA_Logo.svg/480px-IntelliJ_IDEA_Logo.svg.png"><img alt="PyCharm" width="40px" height="40px" src="https://blog.jetbrains.com/wp-content/uploads/2015/12/pycharm-PyCharm_400x400_Twitter_logo_white.png"><img alt="visual studio code" width="40px" height="40px" src="https://seeklogo.com/images/V/visual-studio-code-logo-284BC24C39-seeklogo.com.png">
 
 <br>
+#### *Playing on my Spotify* 🎧
+[![Spotify](https://novatorem-git-master.gabriel-marchal.vercel.app/api/spotify)](https://open.spotify.com/user/pajn42g13k7euvzbrcc4mmfzz)
+
+<br>
 
 - 🔭 I’m currently working on: 
     _*Proyecto de Ingeniería de Software 2*_  [@CenfoTec](https://www.ucenfotec.ac.cr/)
@@ -26,8 +30,4 @@
 - 📫 How to reach me: gabrielmarchal206@gmail.com
     
 <br>
-
-#### *Playing on my Spotify* 🎧
-[![Spotify](https://novatorem-git-master.gabriel-marchal.vercel.app/api/spotify)](https://open.spotify.com/user/pajn42g13k7euvzbrcc4mmfzz)
-
 
