@@ -11,6 +11,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning 
-    (https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png)
+
+    ![c sharp](https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png "C Sharp")
 - 📫 How to reach me: gabrielmarchal206@gmail.com
     
