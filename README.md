@@ -14,7 +14,7 @@
 
 <img alt="c sharp" width="26px" height="27px" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png"><img alt="algular" width="26px" height="26px" src= "https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg"><img alt="dot net" width="26px" height="26px" src= "https://cdn.iconscout.com/icon/free/png-512/microsoft-dot-net-1-1175179.png">
 
-🤖 Best IDEs!:
+🤖 Best IDEs!
 
 <img alt="IntelliJ" width="40px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/IntelliJ_IDEA_Logo.svg/480px-IntelliJ_IDEA_Logo.svg.png"><img alt="PyCharm" width="40px" height="40px" src="https://blog.jetbrains.com/wp-content/uploads/2015/12/pycharm-PyCharm_400x400_Twitter_logo_white.png"><img alt="visual studio code" width="40px" height="40px" src="https://seeklogo.com/images/V/visual-studio-code-logo-284BC24C39-seeklogo.com.png">
 
